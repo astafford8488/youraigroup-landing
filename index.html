@@ -452,6 +452,50 @@
     </div>
   </section>
 
+  <!-- Lead Magnet: Revenue Leak Audit -->
+  <section id="audit" class="py-20 bg-gradient-to-b from-dark-950 to-dark-900">
+    <div class="max-w-5xl mx-auto px-6">
+      <div class="grid md:grid-cols-2 gap-12 items-center">
+        <div>
+          <p class="text-fire-400 text-sm font-semibold tracking-wider uppercase mb-4">Free resource</p>
+          <h2 class="text-3xl md:text-4xl font-bold mb-4 leading-tight">How much revenue is your business leaking?</h2>
+          <p class="text-dark-300 text-lg mb-6">Most service businesses lose $5,000&ndash;$12,000/month to fixable problems they don't even know they have.</p>
+          <p class="text-dark-300 mb-6">Our free <strong class="text-white">Revenue Leak Audit</strong> walks you through 12 common leaks &mdash; missed calls, slow follow-ups, no-shows, admin time &mdash; with dollar estimates and the AI fix for each.</p>
+          <ul class="space-y-3 text-dark-200 text-sm">
+            <li class="flex items-center gap-2"><span class="text-fire-500">&#10003;</span> 12-point checklist with dollar estimates</li>
+            <li class="flex items-center gap-2"><span class="text-fire-500">&#10003;</span> Interactive scorecard to calculate your total</li>
+            <li class="flex items-center gap-2"><span class="text-fire-500">&#10003;</span> Specific AI fix for each leak</li>
+            <li class="flex items-center gap-2"><span class="text-fire-500">&#10003;</span> 5-minute read &mdash; built for busy owners</li>
+          </ul>
+        </div>
+        <div class="bg-dark-800/60 border border-dark-700 rounded-2xl p-6 md:p-8">
+          <h3 class="text-xl font-bold mb-2">Get your free audit</h3>
+          <p class="text-dark-400 text-sm mb-4">Enter your info and we'll send it right over.</p>
+          <div style="height: 434px;">
+            <iframe
+              src="https://api.leadconnectorhq.com/widget/form/22IYRdTQCyqTFllyPvuA"
+              style="width:100%;height:100%;border:none;border-radius:8px"
+              id="inline-22IYRdTQCyqTFllyPvuA"
+              data-layout="{'id':'INLINE'}"
+              data-trigger-type="alwaysShow"
+              data-trigger-value=""
+              data-activation-type="alwaysActivated"
+              data-activation-value=""
+              data-deactivation-type="neverDeactivate"
+              data-deactivation-value=""
+              data-form-name="Lead Magnet Optin"
+              data-height="434"
+              data-layout-iframe-id="inline-22IYRdTQCyqTFllyPvuA"
+              data-form-id="22IYRdTQCyqTFllyPvuA"
+              title="Lead Magnet Optin"
+            ></iframe>
+            <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Book a Call -->
   <section id="book" class="py-20">
     <div class="max-w-4xl mx-auto px-6">
@@ -502,12 +546,52 @@
     </div>
   </footer>
 
-  <!-- Mobile menu toggle -->
+  <!-- Exit-Intent Popup -->
+  <div id="exit-popup" class="fixed inset-0 z-50 hidden">
+    <div class="absolute inset-0 bg-black/70 backdrop-blur-sm" id="exit-popup-overlay"></div>
+    <div class="relative flex items-center justify-center min-h-screen p-4">
+      <div class="bg-dark-900 border border-dark-700 rounded-2xl max-w-lg w-full p-8 relative shadow-2xl">
+        <button id="exit-popup-close" class="absolute top-4 right-4 text-dark-400 hover:text-white transition">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+        <p class="text-fire-400 text-sm font-semibold tracking-wider uppercase mb-3">Before you go</p>
+        <h3 class="text-2xl font-bold mb-3">Is your business leaking revenue?</h3>
+        <p class="text-dark-300 mb-6">Most service businesses lose $5K–$12K/month to fixable problems. Our free 12-point audit shows you exactly where — with dollar estimates and AI fixes.</p>
+        <a href="/landing-audit.html" class="block w-full bg-fire-500 hover:bg-fire-600 text-white text-center font-semibold py-3 px-6 rounded-lg transition-colors mb-3">Get your free Revenue Leak Audit</a>
+        <p class="text-dark-500 text-xs text-center">Free. No credit card. Takes 5 minutes to read.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu toggle + Exit-intent -->
   <script>
     const btn = document.getElementById('mobile-menu-btn');
     const menu = document.getElementById('mobile-menu');
     btn.addEventListener('click', () => menu.classList.toggle('hidden'));
     menu.querySelectorAll('a').forEach(a => a.addEventListener('click', () => menu.classList.add('hidden')));
+
+    (function() {
+      var shown = false;
+      var popup = document.getElementById('exit-popup');
+      var close = document.getElementById('exit-popup-close');
+      var overlay = document.getElementById('exit-popup-overlay');
+      function show() {
+        if (shown) return;
+        if (sessionStorage.getItem('exit-popup-dismissed')) return;
+        shown = true;
+        popup.classList.remove('hidden');
+      }
+      function hide() {
+        popup.classList.add('hidden');
+        sessionStorage.setItem('exit-popup-dismissed', '1');
+      }
+      close.addEventListener('click', hide);
+      overlay.addEventListener('click', hide);
+      document.addEventListener('mouseout', function(e) {
+        if (!e.relatedTarget && e.clientY < 5) show();
+      });
+      setTimeout(function() { show(); }, 45000);
+    })();
   </script>
 </body>
 </html>
