@@ -1,0 +1,20 @@
+# Your AI Group
+
+> AI-powered automation for small and mid-size businesses.
+
+Your AI Group deploys AI voice agents, chatbots, missed-call text-back, smart CRM websites, marketing automation, and workflow automation for service businesses. We handle the full stack — strategy, build, and ongoing optimization — so owners get results without learning new tools.
+
+## Services
+
+- AI Voice Agents (24/7 phone answering, appointment booking)
+- AI Chat Agents (website and SMS conversational AI)
+- Missed Call Text-Back (instant SMS when calls go unanswered)
+- Smart Website + CRM (lead capture sites with built-in pipeline)
+- Marketing Automation (email/SMS nurture sequences, review generation)
+- Workflow Automation (invoicing, scheduling, reporting, integrations)
+
+## Contact
+
+- Web: https://youraigroup.com
+- Email: admin@youraigroup.com
+- Phone: 1-757-231-3407

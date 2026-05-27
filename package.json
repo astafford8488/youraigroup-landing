@@ -1,0 +1,25 @@
+{
+  "name": "youraigroup-landing",
+  "version": "1.0.0",
+  "description": "Marketing site for Your AI Group — agentic AI automation for businesses. Custom AI agents, workflow automation, and intelligent systems that transform operations.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./input.css -o ./styles.css --minify",
+    "watch:css": "npx tailwindcss -i ./input.css -o ./styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astafford8488/youraigroup-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/astafford8488/youraigroup-landing/issues"
+  },
+  "homepage": "https://github.com/astafford8488/youraigroup-landing#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
