@@ -284,7 +284,7 @@
   </div>
 
   <!-- Sticky total bar (appears after checking at least one box) -->
-  <div id="sticky-total" class="hidden fixed bottom-0 left-0 right-0 z-40 bg-dark-900/95 backdrop-blur-md border-t border-fire-500/20 py-3 px-6 no-print">
+  <div id="sticky-total" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:40" class="bg-dark-900/95 backdrop-blur-md border-t border-fire-500/20 py-3 px-6 no-print">
     <div class="max-w-3xl mx-auto flex items-center justify-between">
       <div>
         <p class="text-dark-400 text-xs">Monthly leak total</p>
@@ -312,8 +312,8 @@
       const annual = document.getElementById('leak-annual');
       annual.textContent = total > 0 ? 'That\'s $' + (total*12).toLocaleString() + '/year' : '';
       var sticky = document.getElementById('sticky-total');
-      if(total > 0){ sticky.classList.remove('hidden'); document.getElementById('sticky-total-amount').textContent = formatted; }
-      else { sticky.classList.add('hidden'); }
+      if(total > 0){ sticky.style.display = 'block'; document.getElementById('sticky-total-amount').textContent = formatted; }
+      else { sticky.style.display = 'none'; }
     }
   </script>
 </body>
