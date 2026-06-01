@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /landing-*
+Disallow: /audit.html
+Disallow: /confirm.html
+Disallow: /404.html
 
 Sitemap: https://youraigroup.com/sitemap.xml
