@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "Home Services",
+      "industries": [
+        {"slug": "hvac", "name": "HVAC", "plural": "HVAC Companies", "article": "an"},
+        {"slug": "plumbing", "name": "Plumbing", "plural": "Plumbing Companies", "article": "a"},
+        {"slug": "electrical", "name": "Electrical", "plural": "Electricians", "article": "an"},
+        {"slug": "roofing", "name": "Roofing", "plural": "Roofing Companies", "article": "a"},
+        {"slug": "landscaping", "name": "Landscaping", "plural": "Landscaping Companies", "article": "a"},
+        {"slug": "pest-control", "name": "Pest Control", "plural": "Pest Control Companies", "article": "a"},
+        {"slug": "house-cleaning", "name": "House Cleaning", "plural": "House Cleaning Services", "article": "a"},
+        {"slug": "carpet-cleaning", "name": "Carpet Cleaning", "plural": "Carpet Cleaning Companies", "article": "a"},
+        {"slug": "pressure-washing", "name": "Pressure Washing", "plural": "Pressure Washing Companies", "article": "a"},
+        {"slug": "pool-service", "name": "Pool Service", "plural": "Pool Service Companies", "article": "a"},
+        {"slug": "garage-door", "name": "Garage Door", "plural": "Garage Door Companies", "article": "a"},
+        {"slug": "painting", "name": "Painting", "plural": "Painting Companies", "article": "a"},
+        {"slug": "tree-service", "name": "Tree Service", "plural": "Tree Service Companies", "article": "a"},
+        {"slug": "handyman", "name": "Handyman", "plural": "Handyman Services", "article": "a"}
+      ]
+    },
+    {
+      "name": "Health & Medical",
+      "industries": [
+        {"slug": "dental", "name": "Dental", "plural": "Dental Practices", "article": "a"},
+        {"slug": "chiropractor", "name": "Chiropractic", "plural": "Chiropractic Practices", "article": "a"},
+        {"slug": "physical-therapy", "name": "Physical Therapy", "plural": "Physical Therapy Clinics", "article": "a"},
+        {"slug": "med-spa", "name": "Med Spa", "plural": "Med Spas", "article": "a"},
+        {"slug": "veterinary", "name": "Veterinary", "plural": "Veterinary Clinics", "article": "a"},
+        {"slug": "mental-health", "name": "Mental Health", "plural": "Therapists & Counselors", "article": "a"},
+        {"slug": "massage-therapy", "name": "Massage Therapy", "plural": "Massage Therapists", "article": "a"},
+        {"slug": "optometry", "name": "Optometry", "plural": "Optometry Practices", "article": "an"},
+        {"slug": "dermatology", "name": "Dermatology", "plural": "Dermatology Practices", "article": "a"},
+        {"slug": "orthodontics", "name": "Orthodontics", "plural": "Orthodontic Practices", "article": "an"}
+      ]
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "industries": [
+        {"slug": "hair-salon", "name": "Hair Salon", "plural": "Hair Salons", "article": "a"},
+        {"slug": "barbershop", "name": "Barbershop", "plural": "Barbershops", "article": "a"},
+        {"slug": "nail-salon", "name": "Nail Salon", "plural": "Nail Salons", "article": "a"},
+        {"slug": "day-spa", "name": "Day Spa", "plural": "Day Spas", "article": "a"},
+        {"slug": "tattoo", "name": "Tattoo", "plural": "Tattoo Studios", "article": "a"},
+        {"slug": "lash-studio", "name": "Lash & Brow", "plural": "Lash & Brow Studios", "article": "a"}
+      ]
+    },
+    {
+      "name": "Automotive",
+      "industries": [
+        {"slug": "auto-repair", "name": "Auto Repair", "plural": "Auto Repair Shops", "article": "an"},
+        {"slug": "auto-detailing", "name": "Auto Detailing", "plural": "Auto Detailing Services", "article": "an"},
+        {"slug": "body-shop", "name": "Body Shop", "plural": "Body Shops", "article": "a"},
+        {"slug": "towing", "name": "Towing", "plural": "Towing Companies", "article": "a"}
+      ]
+    },
+    {
+      "name": "Fitness & Wellness",
+      "industries": [
+        {"slug": "personal-training", "name": "Personal Training", "plural": "Personal Trainers", "article": "a"},
+        {"slug": "yoga-studio", "name": "Yoga", "plural": "Yoga Studios", "article": "a"},
+        {"slug": "martial-arts", "name": "Martial Arts", "plural": "Martial Arts Studios", "article": "a"},
+        {"slug": "gym", "name": "Gym & Fitness", "plural": "Gyms & Fitness Studios", "article": "a"}
+      ]
+    },
+    {
+      "name": "Professional Services",
+      "industries": [
+        {"slug": "real-estate", "name": "Real Estate", "plural": "Real Estate Agents", "article": "a"},
+        {"slug": "insurance", "name": "Insurance", "plural": "Insurance Agencies", "article": "an"},
+        {"slug": "accounting", "name": "Accounting", "plural": "Accountants & CPAs", "article": "an"},
+        {"slug": "law-firm", "name": "Law", "plural": "Law Firms", "article": "a"}
+      ]
+    },
+    {
+      "name": "Pet Services",
+      "industries": [
+        {"slug": "dog-grooming", "name": "Dog Grooming", "plural": "Dog Groomers", "article": "a"},
+        {"slug": "pet-boarding", "name": "Pet Boarding", "plural": "Pet Boarding Facilities", "article": "a"},
+        {"slug": "dog-training", "name": "Dog Training", "plural": "Dog Trainers", "article": "a"}
+      ]
+    }
+  ]
+}
