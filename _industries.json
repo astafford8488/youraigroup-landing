@@ -16,7 +16,21 @@
         {"slug": "garage-door", "name": "Garage Door", "plural": "Garage Door Companies", "article": "a"},
         {"slug": "painting", "name": "Painting", "plural": "Painting Companies", "article": "a"},
         {"slug": "tree-service", "name": "Tree Service", "plural": "Tree Service Companies", "article": "a"},
-        {"slug": "handyman", "name": "Handyman", "plural": "Handyman Services", "article": "a"}
+        {"slug": "handyman", "name": "Handyman", "plural": "Handyman Services", "article": "a"},
+        {"slug": "chimney-sweep", "name": "Chimney Sweep", "plural": "Chimney Sweep Companies", "article": "a"},
+        {"slug": "appliance-repair", "name": "Appliance Repair", "plural": "Appliance Repair Services", "article": "an"},
+        {"slug": "locksmith", "name": "Locksmith", "plural": "Locksmiths", "article": "a"},
+        {"slug": "water-damage", "name": "Water Damage Restoration", "plural": "Water Damage Restoration Companies", "article": "a"},
+        {"slug": "septic", "name": "Septic", "plural": "Septic Service Companies", "article": "a"},
+        {"slug": "irrigation", "name": "Irrigation", "plural": "Irrigation Companies", "article": "an"},
+        {"slug": "air-duct-cleaning", "name": "Air Duct Cleaning", "plural": "Air Duct Cleaning Companies", "article": "an"},
+        {"slug": "gutter", "name": "Gutter", "plural": "Gutter Companies", "article": "a"},
+        {"slug": "siding", "name": "Siding", "plural": "Siding Contractors", "article": "a"},
+        {"slug": "foundation-repair", "name": "Foundation Repair", "plural": "Foundation Repair Companies", "article": "a"},
+        {"slug": "fire-restoration", "name": "Fire Restoration", "plural": "Fire Restoration Companies", "article": "a"},
+        {"slug": "lawn-care", "name": "Lawn Care", "plural": "Lawn Care Companies", "article": "a"},
+        {"slug": "water-treatment", "name": "Water Treatment", "plural": "Water Treatment Companies", "article": "a"},
+        {"slug": "remodeling", "name": "Remodeling", "plural": "Remodeling Contractors", "article": "a"}
       ]
     },
     {
@@ -51,7 +65,8 @@
         {"slug": "auto-repair", "name": "Auto Repair", "plural": "Auto Repair Shops", "article": "an"},
         {"slug": "auto-detailing", "name": "Auto Detailing", "plural": "Auto Detailing Services", "article": "an"},
         {"slug": "body-shop", "name": "Body Shop", "plural": "Body Shops", "article": "a"},
-        {"slug": "towing", "name": "Towing", "plural": "Towing Companies", "article": "a"}
+        {"slug": "towing", "name": "Towing", "plural": "Towing Companies", "article": "a"},
+        {"slug": "auto-dealership", "name": "Auto Dealership", "plural": "Auto Dealerships", "article": "an"}
       ]
     },
     {
@@ -69,7 +84,10 @@
         {"slug": "real-estate", "name": "Real Estate", "plural": "Real Estate Agents", "article": "a"},
         {"slug": "insurance", "name": "Insurance", "plural": "Insurance Agencies", "article": "an"},
         {"slug": "accounting", "name": "Accounting", "plural": "Accountants & CPAs", "article": "an"},
-        {"slug": "law-firm", "name": "Law", "plural": "Law Firms", "article": "a"}
+        {"slug": "law-firm", "name": "Law", "plural": "Law Firms", "article": "a"},
+        {"slug": "property-management", "name": "Property Management", "plural": "Property Management Companies", "article": "a"},
+        {"slug": "general-contractor", "name": "General Contractor", "plural": "General Contractors", "article": "a"},
+        {"slug": "mortgage", "name": "Mortgage", "plural": "Mortgage Brokers", "article": "a"}
       ]
     },
     {
@@ -78,6 +96,56 @@
         {"slug": "dog-grooming", "name": "Dog Grooming", "plural": "Dog Groomers", "article": "a"},
         {"slug": "pet-boarding", "name": "Pet Boarding", "plural": "Pet Boarding Facilities", "article": "a"},
         {"slug": "dog-training", "name": "Dog Training", "plural": "Dog Trainers", "article": "a"}
+      ]
+    },
+    {
+      "name": "Specialty Trades",
+      "industries": [
+        {"slug": "solar", "name": "Solar", "plural": "Solar Installation Companies", "article": "a"},
+        {"slug": "smart-home", "name": "Smart Home", "plural": "Smart Home Installers", "article": "a"},
+        {"slug": "fire-safety", "name": "Fire & Life Safety", "plural": "Fire & Life Safety Companies", "article": "a"}
+      ]
+    },
+    {
+      "name": "Food & Hospitality",
+      "industries": [
+        {"slug": "restaurant", "name": "Restaurant", "plural": "Restaurants", "article": "a"},
+        {"slug": "catering", "name": "Catering", "plural": "Catering Companies", "article": "a"},
+        {"slug": "bakery", "name": "Bakery", "plural": "Bakeries", "article": "a"}
+      ]
+    },
+    {
+      "name": "Childcare & Education",
+      "industries": [
+        {"slug": "daycare", "name": "Daycare", "plural": "Daycare Centers", "article": "a"},
+        {"slug": "tutoring", "name": "Tutoring", "plural": "Tutoring Centers", "article": "a"},
+        {"slug": "music-school", "name": "Music School", "plural": "Music Schools", "article": "a"},
+        {"slug": "dance-studio", "name": "Dance", "plural": "Dance Studios", "article": "a"},
+        {"slug": "driving-school", "name": "Driving School", "plural": "Driving Schools", "article": "a"}
+      ]
+    },
+    {
+      "name": "Event Services",
+      "industries": [
+        {"slug": "photographer", "name": "Photography", "plural": "Photographers", "article": "a"},
+        {"slug": "wedding-venue", "name": "Wedding Venue", "plural": "Wedding Venues", "article": "a"},
+        {"slug": "florist", "name": "Florist", "plural": "Florists", "article": "a"},
+        {"slug": "dj", "name": "DJ & Entertainment", "plural": "DJs & Entertainment Companies", "article": "a"}
+      ]
+    },
+    {
+      "name": "Senior & Home Care",
+      "industries": [
+        {"slug": "home-health", "name": "Home Health", "plural": "Home Health Care Agencies", "article": "a"},
+        {"slug": "senior-living", "name": "Senior Living", "plural": "Senior Living Facilities", "article": "a"}
+      ]
+    },
+    {
+      "name": "Moving & Hauling",
+      "industries": [
+        {"slug": "moving", "name": "Moving", "plural": "Moving Companies", "article": "a"},
+        {"slug": "junk-removal", "name": "Junk Removal", "plural": "Junk Removal Services", "article": "a"},
+        {"slug": "storage", "name": "Storage", "plural": "Storage Facilities", "article": "a"}
       ]
     }
   ]
