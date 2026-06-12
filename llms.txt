@@ -13,6 +13,119 @@ Your AI Group deploys AI voice agents, chatbots, missed-call text-back, smart CR
 - Marketing Automation (email/SMS nurture sequences, review generation)
 - Workflow Automation (invoicing, scheduling, reporting, integrations)
 
+## Industry Pages
+
+We serve 83 industries across 13 categories. Each page explains how AI automation applies to that specific business type.
+
+### Home Services
+- [AI for HVAC](https://youraigroup.com/ai-for-hvac.html)
+- [AI for Plumbing](https://youraigroup.com/ai-for-plumbing.html)
+- [AI for Electrical](https://youraigroup.com/ai-for-electrical.html)
+- [AI for Roofing](https://youraigroup.com/ai-for-roofing.html)
+- [AI for Landscaping](https://youraigroup.com/ai-for-landscaping.html)
+- [AI for Pest Control](https://youraigroup.com/ai-for-pest-control.html)
+- [AI for House Cleaning](https://youraigroup.com/ai-for-house-cleaning.html)
+- [AI for Carpet Cleaning](https://youraigroup.com/ai-for-carpet-cleaning.html)
+- [AI for Pressure Washing](https://youraigroup.com/ai-for-pressure-washing.html)
+- [AI for Pool Service](https://youraigroup.com/ai-for-pool-service.html)
+- [AI for Garage Door](https://youraigroup.com/ai-for-garage-door.html)
+- [AI for Painting](https://youraigroup.com/ai-for-painting.html)
+- [AI for Tree Service](https://youraigroup.com/ai-for-tree-service.html)
+- [AI for Handyman](https://youraigroup.com/ai-for-handyman.html)
+- [AI for Chimney Sweep](https://youraigroup.com/ai-for-chimney-sweep.html)
+- [AI for Appliance Repair](https://youraigroup.com/ai-for-appliance-repair.html)
+- [AI for Locksmith](https://youraigroup.com/ai-for-locksmith.html)
+- [AI for Water Damage Restoration](https://youraigroup.com/ai-for-water-damage.html)
+- [AI for Septic](https://youraigroup.com/ai-for-septic.html)
+- [AI for Irrigation](https://youraigroup.com/ai-for-irrigation.html)
+- [AI for Air Duct Cleaning](https://youraigroup.com/ai-for-air-duct-cleaning.html)
+- [AI for Gutter](https://youraigroup.com/ai-for-gutter.html)
+- [AI for Siding](https://youraigroup.com/ai-for-siding.html)
+- [AI for Foundation Repair](https://youraigroup.com/ai-for-foundation-repair.html)
+- [AI for Fire Restoration](https://youraigroup.com/ai-for-fire-restoration.html)
+- [AI for Lawn Care](https://youraigroup.com/ai-for-lawn-care.html)
+- [AI for Water Treatment](https://youraigroup.com/ai-for-water-treatment.html)
+- [AI for Remodeling](https://youraigroup.com/ai-for-remodeling.html)
+
+### Health & Medical
+- [AI for Dental](https://youraigroup.com/ai-for-dental.html)
+- [AI for Chiropractic](https://youraigroup.com/ai-for-chiropractor.html)
+- [AI for Physical Therapy](https://youraigroup.com/ai-for-physical-therapy.html)
+- [AI for Med Spa](https://youraigroup.com/ai-for-med-spa.html)
+- [AI for Veterinary](https://youraigroup.com/ai-for-veterinary.html)
+- [AI for Mental Health](https://youraigroup.com/ai-for-mental-health.html)
+- [AI for Massage Therapy](https://youraigroup.com/ai-for-massage-therapy.html)
+- [AI for Optometry](https://youraigroup.com/ai-for-optometry.html)
+- [AI for Dermatology](https://youraigroup.com/ai-for-dermatology.html)
+- [AI for Orthodontics](https://youraigroup.com/ai-for-orthodontics.html)
+
+### Beauty & Personal Care
+- [AI for Hair Salons](https://youraigroup.com/ai-for-hair-salon.html)
+- [AI for Barbershops](https://youraigroup.com/ai-for-barbershop.html)
+- [AI for Nail Salons](https://youraigroup.com/ai-for-nail-salon.html)
+- [AI for Day Spas](https://youraigroup.com/ai-for-day-spa.html)
+- [AI for Tattoo Studios](https://youraigroup.com/ai-for-tattoo.html)
+- [AI for Lash & Brow Studios](https://youraigroup.com/ai-for-lash-studio.html)
+
+### Automotive
+- [AI for Auto Repair](https://youraigroup.com/ai-for-auto-repair.html)
+- [AI for Auto Detailing](https://youraigroup.com/ai-for-auto-detailing.html)
+- [AI for Body Shops](https://youraigroup.com/ai-for-body-shop.html)
+- [AI for Towing](https://youraigroup.com/ai-for-towing.html)
+- [AI for Auto Dealerships](https://youraigroup.com/ai-for-auto-dealership.html)
+
+### Fitness & Wellness
+- [AI for Personal Training](https://youraigroup.com/ai-for-personal-training.html)
+- [AI for Yoga Studios](https://youraigroup.com/ai-for-yoga-studio.html)
+- [AI for Martial Arts](https://youraigroup.com/ai-for-martial-arts.html)
+- [AI for Gyms & Fitness](https://youraigroup.com/ai-for-gym.html)
+
+### Professional Services
+- [AI for Real Estate](https://youraigroup.com/ai-for-real-estate.html)
+- [AI for Insurance](https://youraigroup.com/ai-for-insurance.html)
+- [AI for Accounting](https://youraigroup.com/ai-for-accounting.html)
+- [AI for Law Firms](https://youraigroup.com/ai-for-law-firm.html)
+- [AI for Property Management](https://youraigroup.com/ai-for-property-management.html)
+- [AI for General Contractors](https://youraigroup.com/ai-for-general-contractor.html)
+- [AI for Mortgage Brokers](https://youraigroup.com/ai-for-mortgage.html)
+
+### Pet Services
+- [AI for Dog Grooming](https://youraigroup.com/ai-for-dog-grooming.html)
+- [AI for Pet Boarding](https://youraigroup.com/ai-for-pet-boarding.html)
+- [AI for Dog Training](https://youraigroup.com/ai-for-dog-training.html)
+
+### Specialty Trades
+- [AI for Solar](https://youraigroup.com/ai-for-solar.html)
+- [AI for Smart Home](https://youraigroup.com/ai-for-smart-home.html)
+- [AI for Fire & Life Safety](https://youraigroup.com/ai-for-fire-safety.html)
+
+### Food & Hospitality
+- [AI for Restaurants](https://youraigroup.com/ai-for-restaurant.html)
+- [AI for Catering](https://youraigroup.com/ai-for-catering.html)
+- [AI for Bakeries](https://youraigroup.com/ai-for-bakery.html)
+
+### Childcare & Education
+- [AI for Daycare](https://youraigroup.com/ai-for-daycare.html)
+- [AI for Tutoring](https://youraigroup.com/ai-for-tutoring.html)
+- [AI for Music Schools](https://youraigroup.com/ai-for-music-school.html)
+- [AI for Dance Studios](https://youraigroup.com/ai-for-dance-studio.html)
+- [AI for Driving Schools](https://youraigroup.com/ai-for-driving-school.html)
+
+### Event Services
+- [AI for Photography](https://youraigroup.com/ai-for-photographer.html)
+- [AI for Wedding Venues](https://youraigroup.com/ai-for-wedding-venue.html)
+- [AI for Florists](https://youraigroup.com/ai-for-florist.html)
+- [AI for DJs & Entertainment](https://youraigroup.com/ai-for-dj.html)
+
+### Senior & Home Care
+- [AI for Home Health](https://youraigroup.com/ai-for-home-health.html)
+- [AI for Senior Living](https://youraigroup.com/ai-for-senior-living.html)
+
+### Moving & Hauling
+- [AI for Moving Companies](https://youraigroup.com/ai-for-moving.html)
+- [AI for Junk Removal](https://youraigroup.com/ai-for-junk-removal.html)
+- [AI for Storage Facilities](https://youraigroup.com/ai-for-storage.html)
+
 ## Contact
 
 - Web: https://youraigroup.com
